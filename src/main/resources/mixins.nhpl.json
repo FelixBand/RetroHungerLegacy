@@ -1,0 +1,16 @@
+{
+	"package": "mod.nero.nhpl.core.mixin",
+	"required": true,
+	"refmap": "mixins.nhpl.refmap.json",
+	"target": "@env(DEFAULT)",
+	"minVersion": "0.8.5",
+	"compatibilityLevel": "JAVA_8",
+	"mixins": [
+		"GameRuleMixin",
+		"MixinItemFood"
+	],
+	"server": [],
+	"client": [
+		"HudMixin"
+	]
+}
