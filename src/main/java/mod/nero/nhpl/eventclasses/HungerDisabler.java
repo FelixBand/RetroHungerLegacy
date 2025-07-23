@@ -7,7 +7,7 @@ public class HungerDisabler {
     @SubscribeEvent
     public void disableHunger(TickEvent.PlayerTickEvent event) {
         if (event.phase == TickEvent.Phase.END) {
-            event.player.getFoodStats().setFoodLevel(20);
+            event.player.getFoodStats().setFoodLevel(6);
         }
     }
 }
