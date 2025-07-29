@@ -1,6 +1,6 @@
 
 ---
-### This is a fork of [RetroHungerLegacy](https://github.com/ImNero/RetroHungerLegacy) by ImNero.
+### This is a fork of [RetroHungerLegacy](https://github.com/Shi3ofreniR/RetroHungerLegacy) by ImNero.
 
 This version includes modifications made by Felix to suit the needs of a specific modpack.  
 It is redistributed under the terms of the original [MIT License](./LICENSE).
